@@ -21,12 +21,12 @@
 ## 💡주요 기능
 
 ### **1. 사용자 위치 기반 매장조회**
-![기능1](./image,gif/내 위치기반 조회.gif)
+![내 위치기반 조회](https://github.com/user-attachments/assets/a3413c39-ed49-4b9b-b2f9-02605620a89d)
 - **GPS 기반 현재 위치 주변 추천**
 - **서울시 오케이존 데이터 활용하여 유아 친화 가게 필터링**
 
 ### **2. 위치 검색 조회**
-![기능2](./image,gif/위치 검색 조회.gif)
+![위치 검색 조회](https://github.com/user-attachments/assets/54369e43-2f73-43cb-994f-d372422ed5fb)
 - **원하는 위치에서 유아 친화 가게 조회 가능**
 
 ### **3. 사용자 기반 추천**
@@ -37,19 +37,19 @@
 ## 🔗 API 명세
 
 ### 로그인 /api/auth
-![image](./image,gif/api 로그인.png){width=768 height=82}
+![api 로그인](https://github.com/user-attachments/assets/e3f52383-9672-4e34-a59c-922351566fc7)
 
 ### 매장 /api/store
-![image](./image,gif/api 매장.png){width=768 height=69}
+![api 매장](https://github.com/user-attachments/assets/3d201a26-1e09-4f73-9600-c00844880c51)
 
 ### 사용자(member) /api/members
-![image](./image,gif/api 사용자.png){width=768 height=134}
+![api 사용자](https://github.com/user-attachments/assets/4d0e6958-4145-475e-b4d0-ebcaa319bf96)
 
 ### 추천 /api/recommend
-![image](./image,gif/api 최근검색어.png){width=770 height=27}
+![api 최근검색어](https://github.com/user-attachments/assets/944e8002-9423-4aa7-bffb-a02d5053e7cc)
 
 ### 후기 /api/store/{storeId}/reviews
-![image](./image,gif/api 후기.png){width=771 height=159}
+![api 후기](https://github.com/user-attachments/assets/22c9a28b-87a8-4810-ad01-0de3ec348b62)
 
 # 🖥️ 시스템 아키텍쳐
 ![아키텍쳐](./image,gif/시스템아키텍쳐.png)
